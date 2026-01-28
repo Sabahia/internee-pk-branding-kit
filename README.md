@@ -21,4 +21,4 @@ To create a fresh and consistent visual identity system for Internee.pk, differe
 ## 📸 Previews
 Screenshots of the designs are available in the `/screenshots` folder.
 ## ✨ Author
-Designed by *Your Name*
+Designed by Sabahia Tasadduq.
